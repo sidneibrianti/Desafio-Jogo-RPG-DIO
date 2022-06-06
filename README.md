@@ -1,5 +1,5 @@
 
-##1º Desafio C#
+## 1º Desafio C#
 
 Criando uma aplicativo RPG com pilares POO.
 
@@ -12,13 +12,13 @@ Abaixo temos o Diagrama de Classe do aplicativo RPG.
 
 ![RPG](/ClassDiagram.png)
 
-###Exemplos do Códigos usados
+### Exemplos do Códigos usados
 
-####Abstração
+#### Abstração
 
-Aqui criamos uma classe __*Character*__ para abastrair as caracteristicas básico dos personagens.
+Aqui criamos uma classe __*Character*__ para abstrair as caracteristicas básico dos personagens.
 
-####Herança:
+#### Herança:
 
 A classe __*Hero*__ herdou todos as Atribuitos e Métodos da classe __*Character*__.
 
@@ -45,7 +45,7 @@ internal class Hero : Character
 }
 ```
 
-####Encapsulamento:
+#### Encapsulamento:
 
 A mudança da vida do personagem só pode ser alterando dentro do classe onde esse atributo foi criado.
 
@@ -72,7 +72,7 @@ public bool Defending(int attack)
 }
 ```
 
-####Polimosfismo:
+#### Polimosfismo:
 
 Aqui mudamos a método __*ToString( )*__ da classe base __*Object*__.
 
