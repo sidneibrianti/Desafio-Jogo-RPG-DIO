@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DesafioJogoRPG1.src.Models
+namespace DesafioJogoRPG1.src.Enums
 {
     enum Names
     {

@@ -1,4 +1,6 @@
-﻿namespace DesafioJogoRPG1.src.Models
+﻿using DesafioJogoRPG1.src.Enums;
+
+namespace DesafioJogoRPG1.src.Models
 {
     internal class Battle
     {

@@ -1,4 +1,4 @@
-﻿
+﻿using DesafioJogoRPG1.src.Enums;
 
 namespace DesafioJogoRPG1.src.Models
 {

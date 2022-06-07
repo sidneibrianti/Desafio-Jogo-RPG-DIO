@@ -1,4 +1,6 @@
 ﻿
+using DesafioJogoRPG1.src.Enums;
+
 namespace DesafioJogoRPG1.src.Models
 {
     internal abstract class Character

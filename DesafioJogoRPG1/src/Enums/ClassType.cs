@@ -1,4 +1,4 @@
-﻿namespace DesafioJogoRPG1.src.Models
+﻿namespace DesafioJogoRPG1.src.Enums
 {
     
     enum ClassType
