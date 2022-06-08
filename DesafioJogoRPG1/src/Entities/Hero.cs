@@ -1,6 +1,6 @@
 ﻿using DesafioJogoRPG1.src.Enums;
 
-namespace DesafioJogoRPG1.src.Models
+namespace DesafioJogoRPG1.src.Entities
 {
     // -------------------
     // Exemplo de Herança

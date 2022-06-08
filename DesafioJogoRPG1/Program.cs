@@ -1,4 +1,4 @@
-﻿using DesafioJogoRPG1.src.Models;
+﻿using DesafioJogoRPG1.src.Entities;
 
 
 char keyPress;
