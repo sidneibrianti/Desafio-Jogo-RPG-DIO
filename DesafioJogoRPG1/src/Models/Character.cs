@@ -1,4 +1,5 @@
 ﻿
+using DesafioJogoRPG1.src.Common;
 using DesafioJogoRPG1.src.Enums;
 
 namespace DesafioJogoRPG1.src.Models
